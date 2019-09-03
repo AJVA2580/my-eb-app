@@ -1,2 +1,2 @@
 # my-eb-app
-My EB App
+My EB App was successfully done
